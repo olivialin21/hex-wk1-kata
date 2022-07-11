@@ -92,10 +92,8 @@ table {
 }
 
 .footer{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 120px;
+  padding: 50px;
+  text-align: center;
   background-color: #999;
 }
 .footer{
